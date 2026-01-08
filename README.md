@@ -6,6 +6,8 @@ No JavaScript is used for the calculation.
 ## Demo
 https://surahotoke.github.io/css-circle-distance
 
+https://github.com/user-attachments/assets/c5171d53-389e-416c-a004-63889954b612
+
 ## About
 - The circles are moved using `resize`
 - The connection line is calculated with CSS trigonometric functions
